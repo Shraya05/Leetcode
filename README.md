@@ -29,20 +29,22 @@ Moving forward, I will categorize and post problems by **topic** and **difficult
 
 Each subfolder will include solutions with detailed explanations and comments.
 
-### 🔍 Example Problems to be Posted:
-| Day  | Problem Name                                          | Difficulty | Solution Link                        |
-|------|-------------------------------------------------------|------------|--------------------------------------|
-| Day 1| [Two Sum](https://leetcode.com/problems/two-sum/)     | Easy       | [java](./arrays/two_sum.py)        |
-| Day 2| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy       | [java](./strings/valid_parentheses.py) |
-| Day 3| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium     | [java](./arrays/maximum_subarray.py) |
-| Day 4| [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium     | [java](./arrays/merge_intervals.py) |
-| Day 5| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [java](./strings/longest_substring.py) |
+---
+
+## 📈 Progress and Future Plans
+Starting from today, I plan to:
+- Post **new problems daily** to track my progress.
+- **Expand** the repository by adding previous solutions gradually, aiming to cover all **250+ solved problems**.
+- Take on **new challenges** across different topics and difficulty levels to sharpen my skills.
 
 ---
 
-## 💻 How to Run the Solutions
+## 🔧 Resources I Use
+While solving problems, I rely on various resources to improve my understanding of algorithms:
+- [LeetCode](https://leetcode.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [YouTube Tutorials](https://www.youtube.com/)
 
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/Shraya05/Leetcode.git
-   cd Leetcode
+Feel free to explore, contribute, or even reach out with suggestions or improvements!
+
+Happy Coding! 🚀
