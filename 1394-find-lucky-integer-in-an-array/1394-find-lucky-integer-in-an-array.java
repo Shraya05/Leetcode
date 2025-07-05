@@ -1,6 +1,10 @@
 class Solution {
     public int findLucky(int[] arr) {
-        int val=Arrays.stream(arr).max().getAsInt();
+        int val=Integer.MIN_VALUE;
+        for(int i:arr)
+        {
+           val= Math.max(val,i);
+        }
        int freq[]=new int[val+1];
        int max=-1;
        for(int i=0;i<arr.length;i++)
