@@ -1,0 +1,1 @@
+select t.id from Weather t where t.temperature >(select w.temperature from Weather w where w.recordDate = subdate(t.recordDate, interval 1 day));
